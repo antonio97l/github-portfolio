@@ -1,1 +1,8 @@
-portfolio
+# Hi, I'm Antonio
+Linkdin page: "https://www.linkedin.com/in/antonio-lagan%C3%A0-5778871b0/?trk=opento_sprofile_topcard"
+Graduate in Legal Sciences – Criminology, with solid technical skills in networking and cybersecurity.
+Currently serving in the Italian Army, where I have gained hands-on experience in managing IT infrastructures, communication systems, and security operations, developing a structured approach to problem-solving and strong teamwork skills.
+
+I have a good knowledge of Cisco networking, routing and switching, network security, firewalls, and VPNs, as well as operational experience with Windows and Linux environments.
+
+I am highly motivated to pursue a professional career as a Junior Cybersecurity Consultant or Help Desk / IT Support Specialist, with the goal of growing in the fields of network security and cyber defense.
