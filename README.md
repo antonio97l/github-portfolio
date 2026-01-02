@@ -1,5 +1,5 @@
 # Hi, I'm Antonio
-<a href="https://linkedin.com"><img src="https://img.schields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logo=linkedin&logoColor=White" /></a>
+<a href="https://www.linkedin.com/in/antonio-lagan%C3%A0-5778871b0/"><img src="https://img.schields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logo=linkedin&logoColor=White" /></a>
 Graduate in Legal Sciences – Criminology, with solid technical skills in networking and cybersecurity.
 Currently serving in the Italian Army, where I have gained hands-on experience in managing IT infrastructures, communication systems, and security operations, developing a structured approach to problem-solving and strong teamwork skills.
 
